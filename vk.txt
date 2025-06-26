@@ -1,3 +1,6 @@
 good morning
+<<<<<<< HEAD
 welcome to gat
 
+=======
+>>>>>>> e5fd06cab8fc30b97bd704653843f55f02fdbed4
